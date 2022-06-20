@@ -1,0 +1,2 @@
+Link para o Download do GIT: https://git-scm.com/downloads
+O GIT bash é um console para gerenciar o GitHub
