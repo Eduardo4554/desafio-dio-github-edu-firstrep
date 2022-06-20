@@ -1,0 +1,6 @@
+Comandos para usar no Git Bash
+
+git status
+git add
+git commit -m "Texto descrevendo"
+git push origin main
